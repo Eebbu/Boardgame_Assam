@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="bin">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.jdks/JavaFX/javafx-sdk-17.0.6/bin" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/.jdks/JavaFX/javafx-sdk-17.0.6/bin" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
